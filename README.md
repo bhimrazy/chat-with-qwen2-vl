@@ -4,7 +4,7 @@
 </div
 
 ## Overview
-[**Qwen2-VL **](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) is the latest version of the vision language models in the Qwen model familities.
+[**Qwen2-VL**](https://huggingface.co/Qwen/Qwen2-VL-7B-Instruct) is the latest version of the vision language models in the Qwen model familities.
 
 This model enables multi-frame image understanding, image comparison, multi-image summarization/storytelling, and video summarization, which have broad applications in office scenarios.
 
