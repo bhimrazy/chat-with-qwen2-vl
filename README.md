@@ -5,6 +5,12 @@
     <a target="_blank" href="https://lightning.ai/bhimrajyadav/studios/deploy-and-chat-with-qwen2-vl-using-litserve">
       <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/>
     </a>
+
+<video src="https://github.com/user-attachments/assets/59939d19-384e-4966-a7f7-3e3e009b5177" 
+       type="video/webm" 
+       controls 
+       style="max-width: 640px; width: 100%; height: auto;">
+</video>
 </div>
 
 ## Overview
