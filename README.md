@@ -1,6 +1,10 @@
 <div align="center">
     <h3 style="margin-bottom:-55px;margin-left:55px;color:#6332e5">Chat with</h3>
     <img src="https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen2-VL/qwen2VL_logo.png" width="400"/>
+    <br/>
+    <a target="_blank" href="https://lightning.ai/bhimrajyadav/studios/deploy-and-chat-with-qwen2-vl-using-litserve">
+      <img src="https://pl-bolts-doc-images.s3.us-east-2.amazonaws.com/app-2/studio-badge.svg" alt="Open In Studio"/>
+    </a>
 </div>
 
 ## Overview
